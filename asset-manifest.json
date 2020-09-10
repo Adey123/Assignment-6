@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Assignment-6/static/css/main.5a5ff600.chunk.css",
+    "main.js": "/Assignment-6/static/js/main.fb0abd6f.chunk.js",
+    "main.js.map": "/Assignment-6/static/js/main.fb0abd6f.chunk.js.map",
+    "runtime-main.js": "/Assignment-6/static/js/runtime-main.da0db513.js",
+    "runtime-main.js.map": "/Assignment-6/static/js/runtime-main.da0db513.js.map",
+    "static/js/2.a7f2996d.chunk.js": "/Assignment-6/static/js/2.a7f2996d.chunk.js",
+    "static/js/2.a7f2996d.chunk.js.map": "/Assignment-6/static/js/2.a7f2996d.chunk.js.map",
+    "index.html": "/Assignment-6/index.html",
+    "precache-manifest.b7a5e081ca0b63e67895f84b39624653.js": "/Assignment-6/precache-manifest.b7a5e081ca0b63e67895f84b39624653.js",
+    "service-worker.js": "/Assignment-6/service-worker.js",
+    "static/css/main.5a5ff600.chunk.css.map": "/Assignment-6/static/css/main.5a5ff600.chunk.css.map",
+    "static/js/2.a7f2996d.chunk.js.LICENSE.txt": "/Assignment-6/static/js/2.a7f2996d.chunk.js.LICENSE.txt",
+    "static/media/App.PNG": "/Assignment-6/static/media/App.2b5a3aed.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da0db513.js",
+    "static/js/2.a7f2996d.chunk.js",
+    "static/css/main.5a5ff600.chunk.css",
+    "static/js/main.fb0abd6f.chunk.js"
+  ]
+}
